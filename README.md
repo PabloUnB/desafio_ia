@@ -8,6 +8,7 @@ This project implements generative models for two tasks:
 2. **Audio Regeneration** using VAE
 
 ## Project Structure
+```text
 desafio_ia/
 ├── src/ # Utilits and metrics
 ├── spectrograms/                   # to save audio scpectrograms 
@@ -28,6 +29,7 @@ desafio_ia/
 ├── 02_audio_regeneration.ipynb     # notebook for challenge 02 (Audio Regeneration)
 ├── RESULTS.md                      # Results discussion
 └── README.md                       # Main documentation
+´´´
 
 ## Part 1: MNIST Image Generation
 - Trainned DCGAN model and compared results between each iteraction
