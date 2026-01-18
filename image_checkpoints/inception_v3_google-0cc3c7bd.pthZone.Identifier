@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://download.pytorch.org/models/inception_v3_google-0cc3c7bd.pth

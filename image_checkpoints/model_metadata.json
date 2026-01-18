@@ -1,0 +1,7 @@
+{
+  "latent_dim": 100,
+  "image_size": 64,
+  "epoch": 39,
+  "device": "cuda",
+  "fid_score": null
+}
