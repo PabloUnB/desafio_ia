@@ -54,13 +54,13 @@ desafio_ia/
 
 
 ### Option 1: Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pabloUnB/desafio_ia)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PabloUnB/desafio_ia)
 
 ### Option 2: Local Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/pabloUnB/desafio_ia.git
+git clone https://github.com/PabloUnB/desafio_ia.git
 cd desafio_ia
 
 # 1. Criate virtual environment (.venv)
